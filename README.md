@@ -1,5 +1,7 @@
 <div align="center">
 
+<h1>Bethara Engineering Service Website</h1>
+
 ![Bethara Engineering Service](https://img.shields.io/badge/Auto-Service_Center-27292b?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
@@ -102,7 +104,7 @@ Bethara Engineering Service is a comprehensive automotive service center located
 ---
 
 ## 📄 License
-Copyright © 2026 Bethara Engineering Service. All rights reserved.
+<i>Copyright © 2026 Bethara Engineering Service. All rights reserved.</i>
 
 This project and its source code are proprietary and confidential. Unauthorized copying, distribution, modification, or use is strictly prohibited.
 
@@ -110,7 +112,7 @@ This project and its source code are proprietary and confidential. Unauthorized 
 
 <div align="center">
 
-**Developed with ❤️ by the Developer**
+**Developed with ❤️ by the Dineth**
 
 If you liked this project or found it helpful, consider supporting the development!
 
