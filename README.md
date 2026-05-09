@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Bethara Engineering Service Website</h1>
+<img src="https://github.com/dinethsadee01/Auto-Service-Hub/assets/bethara.png" alt="Bethara Engineering Service">
 
 ![Bethara Engineering Service](https://img.shields.io/badge/Auto-Service_Center-27292b?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
